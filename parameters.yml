@@ -1,0 +1,7 @@
+parameters:
+    framework.secret: 123
+    timezones_for_response:
+        - Europe/Zurich
+        - Europe/Kiev
+        - Australia/Sydney
+        - America/New_York
